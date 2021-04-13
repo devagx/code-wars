@@ -1,3 +1,3 @@
-# code-wars
+# CodeWars
 
-This respository contains my Kata Solutions from CodeWars.
+This respository contains my Kata Solutions for CodeWars.
